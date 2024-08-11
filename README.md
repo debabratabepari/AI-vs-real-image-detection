@@ -1,1 +1,1 @@
-AI image detector
+## AI image detector
